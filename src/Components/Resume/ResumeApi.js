@@ -1,0 +1,68 @@
+const ResumeApi = [
+  {
+    id: 1,
+    category: "education",
+    year: "LUKE CHRISTIAN INSTITUTE",
+    title: "PRIMARY (2006 - 2013)",
+    desc: "Luke Christian Institute - Pagsabungan, 4045 Baas St.",
+    rate: "GPA - 87",
+  },
+  {
+    id: 2,
+    category: "education",
+    year: "MATERNELLE ACADEMY",
+    title: "SECONDARY (2014 - 2017)",
+    desc: "Maternelle Academy - H. Abellana Street, Basak,, Mandaue City, Philippines",
+    rate: "GPA - 91",
+  },
+  {
+    id: 3,
+    category: "education",
+    year: "UNIVERSITY OF CEBU LAPU-LAPU AND MANDAUE",
+    title: "TERTIARY (2018 - 2020)",
+    desc: "A.C. Cortes Avenue, Barangay Looc, Mandaue City, 6014, Cebu, Philippines",
+    rate: "GPA - 91",
+  },
+  {
+    id: 4,
+    category: "education",
+    year: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY (2021 - 2025) ",
+    title: "COLLEGE",
+    desc: "UNIVERSITY OF LAPU-LAPU AND MANDAUE - A.C. Cortes Avenue, Barangay Looc, Mandaue City, 6014, Cebu, Philippines",
+    rate: "GPA - (To be followed)",
+  },
+  {
+    id: 5,
+    category: "experience",
+    year: "N/A",
+    title: "",
+    desc: "",
+    rate: "TBF",
+  },
+  {
+    id: 6,
+    category: "experience",
+    year: "N/A",
+    title: "",
+    desc: "",
+    rate: "TBF",
+  },
+  {
+    id: 7,
+    category: "experience",
+    year: "N/A",
+    title: "",
+    desc: "",
+    rate: "TBF",
+  },
+  {
+    id: 8,
+    category: "experience",
+    year: "N/A",
+    title: "",
+    desc: "",
+    rate: "TBF",
+  },
+]
+
+export default ResumeApi

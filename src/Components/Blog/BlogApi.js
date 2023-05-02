@@ -1,0 +1,36 @@
+const BlogApi = [
+    {
+      id: 1,
+      image: "./image/blog-01.jpg",
+      date: "N/A",
+      title_one: "N/A",
+      desc_one: "N/A",
+      title_two: "N/A",
+      desc_two: "N/A",
+      title_three: "N/A",
+      desc_three: "N/A",
+    },
+    {
+      id: 2,
+      image: "./image/blog-02.jpg",
+      date: "N/A",
+      title_one: "N/A",
+      desc_one: "N/A",
+      title_two: "Nobis eleifend option conguenes.",
+      desc_two: "N/A",
+      title_three: "N/A",
+      desc_three: "N/A",
+    },
+    {
+      id: 3,
+      image: "./image/blog-03.jpg",
+      date: "N/A",
+      title_one: "N/A",
+      desc_one: "N/A",
+      title_two: "N/A",
+      desc_two: "N/A",
+      title_three: "N/A",
+      desc_three: "N/A",
+    },
+  ]
+  export default BlogApi
